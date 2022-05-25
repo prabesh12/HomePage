@@ -15,7 +15,7 @@ const Footer = () => {
         }}
       >
         <div className="container">
-          <div className="d-flex justify-content-between align-items-center mt-5">
+          <div className="d-flex justify-content-between align-items-center py-4">
             <div className="col-md-5 join ">
               <h6>Join our newsletter</h6>
               <p className="desc">
